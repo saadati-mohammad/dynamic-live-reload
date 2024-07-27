@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-live-reload",
+  "version": "1.0.0",
+  "description": "Developer : Mohammad Saadati",
+  "main": "live-reload.js",
+  "scripts": {
+    "start": "node live-reload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "chokidar": "^3.6.0"
+  }
+}
