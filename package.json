@@ -2,9 +2,9 @@
   "name": "dynamic-live-reload",
   "version": "1.0.0",
   "description": "Developer : Mohammad Saadati",
-  "main": "live-reload.js",
+  "main": "dynamic-live-reload.js",
   "scripts": {
-    "start": "node live-reload.js"
+    "start": "node dynamic-live-reload.js"
   },
   "author": "",
   "license": "ISC",

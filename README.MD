@@ -38,7 +38,7 @@ Navigate to `http://localhost:3000` in your browser to see your project. Any cha
 ## Project Structure
 
 - **index.html**: The main HTML file for the project.
-- **live-reload.js**: JavaScript file setting up the live-reloading functionality.
+- **dynamic-live-reload.js**: JavaScript file setting up the live-reloading functionality.
 - **package.json**: Project configuration file, including dependencies and scripts.
 
 ## How It Works
@@ -52,7 +52,7 @@ Navigate to `http://localhost:3000` in your browser to see your project. Any cha
 This repository consists of:
 
 - **frontend**: A simple HTML file to demonstrate live reloading.
-- **live-reload.js**: The core JavaScript for setting up BrowserSync and file watching.
+- **dynamic-live-reload.js**: The core JavaScript for setting up BrowserSync and file watching.
 
 ## How to Setup for Development
 

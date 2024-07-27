@@ -1,4 +1,4 @@
-// live-reload.js
+// dynamic-live-reload.js
 const browserSync = require("browser-sync").create();
 const chokidar = require("chokidar");
 
