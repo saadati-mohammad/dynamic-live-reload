@@ -19,9 +19,9 @@ const watcher = chokidar.watch('.', {
 let timeout;
 
 watcher.on('all', (event, path) => {
-    console.log(`File ${path} has been ${event}`);
     clearTimeout(timeout);
     timeout = setTimeout(() => {
+        console.log(`File ${path} has been ${event}`);
         browserSync.reload();
         console.log('Browser reloaded!');
     }, 3000); // 3 seconds delay
