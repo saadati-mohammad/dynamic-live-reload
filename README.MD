@@ -75,7 +75,7 @@ We welcome contributions! Please follow these steps:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/dynamic-live-reload,saadati-mohammad/auto-save-refresh&type=Date)](https://star-history.com/#your-username/dynamic-live-reload&saadati-mohammad/auto-save-refresh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=saadati-mohammad/dynamic-live-reload,saadati-mohammad/auto-save-refresh&type=Date)](https://star-history.com/#saadati-mohammad/dynamic-live-reload&saadati-mohammad/auto-save-refresh&Date)
 
 ## License
 
